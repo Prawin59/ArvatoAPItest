@@ -15,7 +15,7 @@ Microsoft .net Test SDK,
 Specflow Living Doc Plugin,
 SpecRun.Specflow,
 
-3rd party API Integration fixer API
+3rd party API Integration from fixer.io
 
 Project Flow:
 
