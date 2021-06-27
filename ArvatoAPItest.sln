@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArvatoAPItest", "ArvatoAPItest\ArvatoAPItest.csproj", "{0D0761A8-81B0-408C-9F1D-6A86DA5112C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D0761A8-81B0-408C-9F1D-6A86DA5112C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0761A8-81B0-408C-9F1D-6A86DA5112C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0761A8-81B0-408C-9F1D-6A86DA5112C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0761A8-81B0-408C-9F1D-6A86DA5112C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59FE1FB7-22A5-4DAA-8117-CE4DEEF07243}
+	EndGlobalSection
+EndGlobal
