@@ -4,16 +4,17 @@ Technologies
 
 C#
 
-Framework*
+***Framework***
 
 Specflow
 
-Installed Packages
+***Installed Packages***
 
-FluentAsserstion
-Microsoft .net Test SDK
-Specflow Living Doc Plugin
-SpecRun.Specflow
+FluentAsserstion,
+Microsoft .net Test SDK,
+Specflow Living Doc Plugin,
+SpecRun.Specflow,
+
 3rd party API Integration fixer API
 
 Project Flow:
